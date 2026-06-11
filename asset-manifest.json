@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crm_futureint/static/css/main.6f0bef25.css",
+    "main.js": "/crm_futureint/static/js/main.dbc60cdc.js",
+    "static/js/453.eca5f793.chunk.js": "/crm_futureint/static/js/453.eca5f793.chunk.js",
+    "index.html": "/crm_futureint/index.html",
+    "main.6f0bef25.css.map": "/crm_futureint/static/css/main.6f0bef25.css.map",
+    "main.dbc60cdc.js.map": "/crm_futureint/static/js/main.dbc60cdc.js.map",
+    "453.eca5f793.chunk.js.map": "/crm_futureint/static/js/453.eca5f793.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f0bef25.css",
+    "static/js/main.dbc60cdc.js"
+  ]
+}
